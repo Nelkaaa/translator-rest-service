@@ -11,7 +11,7 @@ import java.util.Map;
 @RolesAllowed("user")
 public class TranslatorResource {
 
-    private static final String API_KEY = "AIzaSyDnweFQdjemHmv-0ca04DN2o0DFqFvSUZU";
+    private static final String API_KEY = "";
 
     @POST
     @Path("translate")
